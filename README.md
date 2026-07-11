@@ -4,6 +4,8 @@ A minimal, Home Assistant-native Lovelace card to set an **EVCC departure charge
 
 Built to feel like a native Home Assistant tile card: same typography, control styling, hover states, and theme-aware colors. Works great inside a [browser_mod](https://github.com/thomasloven/hass-browser_mod) popup, on desktop, iPhone, and iPad.
 
+![EVCC Plan Card](images/screenshot.png)
+
 ## Features
 
 - 📅 **Day stepper** — quickly pick today, tomorrow, or up to 6 days ahead
